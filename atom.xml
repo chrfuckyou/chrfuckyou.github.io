@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>fft</title>
+  
+  
+  <link href="https://github.com/chrfuckyou/chrfuckyou.github.com/blog/atom.xml" rel="self"/>
+  
+  <link href="https://github.com/chrfuckyou/chrfuckyou.github.com/blog/"/>
+  <updated>2023-08-10T23:56:01.407Z</updated>
+  <id>https://github.com/chrfuckyou/chrfuckyou.github.com/blog/</id>
+  
+  <author>
+    <name>chr</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://github.com/chrfuckyou/chrfuckyou.github.com/blog/2023/08/11/Hello-World/"/>
+    <id>https://github.com/chrfuckyou/chrfuckyou.github.com/blog/2023/08/11/Hello-World/</id>
+    <published>2023-08-10T23:56:01.000Z</published>
+    <updated>2023-08-10T23:56:01.407Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>
